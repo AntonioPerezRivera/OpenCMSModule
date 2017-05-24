@@ -1,0 +1,8 @@
+<xsd:annotation>
+ <xsd:appinfo>
+  <formatters>
+   <formatter type="center" uri="../formatters/content_formatter.jsp" />
+   <formatter type="sidecolumn" uri="../formatters/content_formatter.jsp" />
+  </formatters>
+ </xsd:appinfo>
+</xsd:annotation>
